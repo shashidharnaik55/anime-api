@@ -34,7 +34,7 @@ function createtopAnime(anime) {
       <p>Episodes : ${anime.episodes}</p>
       <p>Start Date: ${anime.start_date} </p> 
       <p>End Date: ${anime.end_date}</p>
-      <p>IMDB Rate : ${anime.score}</p>
+      <p>IMDB Rating : ${anime.score}</p>
       <p>Type : ${anime.type}</p>
       `;
 
